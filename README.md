@@ -5,7 +5,7 @@
   <li>Studying: <strong>C++ and Python</strong></li>
 </ul>
 
-<div style="gap: 20px;">
+<div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sinvaldodev&show_icons=true&theme=dark">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=dark">
 </div>
