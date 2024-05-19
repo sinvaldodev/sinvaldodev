@@ -4,4 +4,7 @@
 • Age: **20 years**
 • Studying: **C++ and Python**
 
-![Sinvaldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinvaldodev&hide=contribs,prs)
+<div>
+  ![Sinvaldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinvaldodev&show_icons=true&theme=radical)
+  
+</div>
