@@ -6,6 +6,6 @@
 </ul>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=sinvaldodev&show_icons=true&theme=radical">![Sinvaldo's GitHub stats]()
-  
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=sinvaldodev&show_icons=true&theme=dark">
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true">
 </div>
