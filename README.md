@@ -17,7 +17,7 @@
   <img align="center" alt="Sinvaldo-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Sinvaldo-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Sinvaldo-PHP" height="50" width="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/php/php-original.svg" />
-  <img align="center" alt="Sinvaldo-PHP" height="50" width="60" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/laravel/laravel-original-wordmark.svg" />
+  <img align="center" alt="Sinvaldo-PHP" height="70" width="80" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/laravel/laravel-original-wordmark.svg" />
 </div>
 
 ##
