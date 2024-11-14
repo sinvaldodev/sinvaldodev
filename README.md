@@ -2,7 +2,7 @@
 <ul>
   <li> Current job: <strong>Webdesigner</strong></li>
   <li> Age: <strong>20 years</strong></li>
-  <li> Studying: <strong>C++ and Python</strong></li>
+  <li> Studying: <strong>Laravel e PHP</strong></li>
   <li> I'm from: <strong>Brazil</strong></li>
 </ul>
 
